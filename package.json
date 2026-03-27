@@ -1,6 +1,6 @@
 {
   "name": "caddy-cli-manager",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI para gerenciar Caddyfile facilmente",
   "license": "MIT",
   "bin": {
