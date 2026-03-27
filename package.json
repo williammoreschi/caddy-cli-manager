@@ -1,0 +1,9 @@
+{
+  "name": "caddy-cli-manager",
+  "version": "1.0.0",
+  "description": "CLI para gerenciar Caddyfile facilmente",
+  "bin": {
+    "caddy-cli": "./bin/cli.js"
+  },
+  "type": "commonjs"
+}
