@@ -1,5 +1,10 @@
 # Caddy CLI Manager
 
+[![npm](https://img.shields.io/npm/v/caddy-cli-manager)](https://www.npmjs.com/package/caddy-cli-manager)
+[![license](https://img.shields.io/github/license/williammoreschi/caddy-cli-manager)](LICENSE)
+
+CLI simples para gerenciar o **Caddyfile** de forma rápida e interativa, com zero dependências externas.
+
 CLI simples para gerenciar o **Caddyfile** de forma rápida e interativa, com zero dependências externas.
 
 Ideal para quem trabalha com múltiplos projetos locais e precisa criar/remover domínios com frequência.
@@ -7,7 +12,7 @@ Ideal para quem trabalha com múltiplos projetos locais e precisa criar/remover 
 ## 🎥 Preview
 
 <p align="center">
-  <img src="./docs/preview.gif" alt="preview" />
+  <img src="https://raw.githubusercontent.com/williammoreschi/caddy-cli-manager/main/docs/preview.gif" alt="preview" />
 </p>
 
 ## ⚡ Zero dependências
